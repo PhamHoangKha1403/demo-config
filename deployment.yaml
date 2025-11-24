@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: phamhoangkha1403/demo-app@sha256:e454c6e640386795d63e6143c10aa50406442acba2eeb7093875c3c1ac5e1e11
+          image: phamhoangkha1403/demo-app@sha256:88fbfebe96607cf27a38df020a9417cd2933090f7687009af8c6f07d0299f3f7
           ports:
             - containerPort: 80
